@@ -32,9 +32,9 @@ class FeatureEngineering:
         df['high_low_range'] = (df['high'] - df['low']) / df['close']
         df['daily_range'] = (df['high'] - df['low'])
         
-        # Volume
-        df['volume_ma'] = df['volume'].rolling(20).mean()
-        df['volume_ratio'] = df['volume'] / df['volume_ma']
+        # Volume (usando real_volume do banco)
+        df['volume_ma'] = df['real_volume'].rolling(20).mean()
+        df['volume_ratio'] = df['real_volume'] / df['volume_ma']
         
         # Momentum
         df['momentum'] = df['close'].diff(5)
@@ -68,9 +68,10 @@ class FeatureEngineering:
         df['is_close_hour'] = df['hour'] == 16
         df['is_lunch_time'] = df['hour'].between(12, 13)
         
-        # Converte para variáveis numéricas
-        for col in ['is_morning', 'is_afternoon', 'is_market_open',
-                    'is_open_hour', 'is_close_hour', 'is_lunch_time']:
+        # Converte booleanos para int
+        bool_columns = ['is_morning', 'is_afternoon', 'is_market_open',
+                       'is_open_hour', 'is_close_hour', 'is_lunch_time']
+        for col in bool_columns:
             df[col] = df[col].astype(int)
         
         return df
@@ -137,29 +138,3 @@ class FeatureEngineering:
         ))
         
         return importance['feature'].head(n_features).tolist()
-    
-    def prepare_features(self, data: pd.DataFrame,
-                        fundamental_data: Dict[str, pd.DataFrame] = None) -> pd.DataFrame:
-        """Prepara todas as features.
-        
-        Args:
-            data: DataFrame com dados OHLCV
-            fundamental_data: Dados fundamentais (opcional)
-            
-        Returns:
-            DataFrame com todas as features preparadas
-        """
-        # Features técnicas
-        df = self.create_technical_features(data)
-        
-        # Features temporais
-        df = self.create_temporal_features(df)
-        
-        # Features fundamentais
-        if fundamental_data:
-            df = self.create_fundamental_features(df, fundamental_data)
-        
-        # Remove linhas com dados ausentes
-        df = df.dropna()
-        
-        return df
