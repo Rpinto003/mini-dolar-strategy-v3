@@ -1,0 +1,56 @@
+# Configurações base do projeto
+
+# Parâmetros de mercado
+market:
+  symbol: WDO
+  timeframe: 1m
+  session_start: "09:00"
+  session_end: "17:00"
+  min_volume: 100
+
+# Parâmetros técnicos
+technical:
+  moving_averages:
+    - 9
+    - 21
+    - 50
+  rsi_period: 14
+  atr_period: 14
+  volatility_window: 20
+
+# Parâmetros fundamentais
+fundamental:
+  news_impact_window: 60  # minutos
+  economic_data_window: 5  # dias
+  sentiment_threshold: 0.5
+
+# Parâmetros de ML
+ml:
+  sequence_length: 60
+  train_test_split: 0.2
+  validation_size: 0.1
+  batch_size: 32
+  epochs: 100
+  
+  # Configurações de ensemble
+  ensemble:
+    n_estimators: 10
+    max_samples: 0.8
+    max_features: 0.8
+
+# Parâmetros de trading
+trading:
+  initial_capital: 100000
+  position_size: 1
+  max_positions: 3
+  stop_loss: 1.5  # ATR multiplier
+  take_profit: 2.0  # ATR multiplier
+  max_daily_loss: -2000
+  max_drawdown: -5000
+
+# Caminhos
+paths:
+  data: "data/"
+  models: "models/"
+  reports: "reports/"
+  logs: "logs/"

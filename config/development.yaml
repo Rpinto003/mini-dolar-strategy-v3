@@ -1,0 +1,15 @@
+# Sobrescreve configurações para ambiente de desenvolvimento
+
+market:
+  timeframe: 1m
+  session_start: "09:00"
+  session_end: "17:00"
+
+ml:
+  sequence_length: 30  # Reduzido para desenvolvimento
+  epochs: 10
+  batch_size: 16
+
+trading:
+  initial_capital: 10000  # Reduzido para testes
+  max_positions: 1
