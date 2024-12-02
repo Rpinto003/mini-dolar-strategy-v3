@@ -35,3 +35,10 @@ ipykernel>=6.0.0
 
 # Database
 SQLAlchemy>=1.4.0
+
+# Novos requirements
+pandas>=1.5.0
+numpy>=1.21.0
+python-dateutil>=2.8.2
+loguru>=0.7.0
+pytz>=2023.3
