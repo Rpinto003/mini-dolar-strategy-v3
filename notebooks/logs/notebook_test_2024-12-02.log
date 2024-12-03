@@ -1,0 +1,395 @@
+2024-12-02 19:49:47,734 - notebook_test - INFO - Agente registrado: RSIAgent
+2024-12-02 19:49:47,735 - notebook_test - INFO - Agente registrado: MACDAgent
+2024-12-02 20:02:30,922 - notebook_test - INFO - Agente registrado: RSIAgent
+2024-12-02 20:02:30,922 - notebook_test - INFO - Agente registrado: MACDAgent
+2024-12-02 20:03:54,790 - notebook_test - INFO - Agente registrado: RSIAgent
+2024-12-02 20:03:54,790 - notebook_test - INFO - Agente registrado: MACDAgent
+2024-12-02 20:08:27,614 - notebook_test - INFO - Agente registrado: RSIAgent
+2024-12-02 20:08:27,614 - notebook_test - INFO - Agente registrado: MACDAgent
+2024-12-02 20:08:38,703 - notebook_test - INFO - Ordem criada: ORD20241202-0001 - PUT @ 5172.345
+2024-12-02 20:08:38,706 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0001_detailed_report.json
+2024-12-02 20:08:38,707 - notebook_test - INFO - Ordem ORD20241202-0001 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,709 - notebook_test - INFO - Ordem criada: ORD20241202-0002 - PUT @ 5172.345
+2024-12-02 20:08:38,712 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0002_detailed_report.json
+2024-12-02 20:08:38,713 - notebook_test - INFO - Ordem ORD20241202-0002 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,715 - notebook_test - INFO - Ordem criada: ORD20241202-0003 - PUT @ 5172.345
+2024-12-02 20:08:38,717 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0003_detailed_report.json
+2024-12-02 20:08:38,717 - notebook_test - INFO - Ordem ORD20241202-0003 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,719 - notebook_test - INFO - Ordem criada: ORD20241202-0004 - PUT @ 5172.345
+2024-12-02 20:08:38,721 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0004_detailed_report.json
+2024-12-02 20:08:38,722 - notebook_test - INFO - Ordem ORD20241202-0004 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,724 - notebook_test - INFO - Ordem criada: ORD20241202-0005 - PUT @ 5173.371
+2024-12-02 20:08:38,726 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0005_detailed_report.json
+2024-12-02 20:08:38,727 - notebook_test - INFO - Ordem ORD20241202-0005 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,729 - notebook_test - INFO - Ordem criada: ORD20241202-0006 - PUT @ 5174.911
+2024-12-02 20:08:38,731 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0006_detailed_report.json
+2024-12-02 20:08:38,731 - notebook_test - INFO - Ordem ORD20241202-0006 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,733 - notebook_test - INFO - Ordem criada: ORD20241202-0007 - PUT @ 5175.938
+2024-12-02 20:08:38,735 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0007_detailed_report.json
+2024-12-02 20:08:38,737 - notebook_test - INFO - Ordem ORD20241202-0007 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,739 - notebook_test - INFO - Ordem criada: ORD20241202-0008 - PUT @ 5174.398
+2024-12-02 20:08:38,740 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0008_detailed_report.json
+2024-12-02 20:08:38,741 - notebook_test - INFO - Ordem ORD20241202-0008 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,743 - notebook_test - INFO - Ordem criada: ORD20241202-0009 - PUT @ 5177.478
+2024-12-02 20:08:38,745 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0009_detailed_report.json
+2024-12-02 20:08:38,746 - notebook_test - INFO - Ordem ORD20241202-0009 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,748 - notebook_test - INFO - Ordem criada: ORD20241202-0010 - PUT @ 5177.478
+2024-12-02 20:08:38,751 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0010_detailed_report.json
+2024-12-02 20:08:38,753 - notebook_test - INFO - Ordem ORD20241202-0010 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,755 - notebook_test - INFO - Ordem criada: ORD20241202-0011 - PUT @ 5177.991
+2024-12-02 20:08:38,758 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0011_detailed_report.json
+2024-12-02 20:08:38,759 - notebook_test - INFO - Ordem ORD20241202-0011 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,760 - notebook_test - INFO - Ordem criada: ORD20241202-0012 - PUT @ 5181.071
+2024-12-02 20:08:38,763 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0012_detailed_report.json
+2024-12-02 20:08:38,764 - notebook_test - INFO - Ordem ORD20241202-0012 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,765 - notebook_test - INFO - Ordem criada: ORD20241202-0013 - PUT @ 5180.558
+2024-12-02 20:08:38,767 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0013_detailed_report.json
+2024-12-02 20:08:38,768 - notebook_test - INFO - Ordem ORD20241202-0013 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,770 - notebook_test - INFO - Ordem criada: ORD20241202-0014 - PUT @ 5181.585
+2024-12-02 20:08:38,771 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0014_detailed_report.json
+2024-12-02 20:08:38,772 - notebook_test - INFO - Ordem ORD20241202-0014 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,774 - notebook_test - INFO - Ordem criada: ORD20241202-0015 - PUT @ 5182.611
+2024-12-02 20:08:38,776 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0015_detailed_report.json
+2024-12-02 20:08:38,777 - notebook_test - INFO - Ordem ORD20241202-0015 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,780 - notebook_test - INFO - Ordem criada: ORD20241202-0016 - PUT @ 5183.638
+2024-12-02 20:08:38,782 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0016_detailed_report.json
+2024-12-02 20:08:38,783 - notebook_test - INFO - Ordem ORD20241202-0016 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,785 - notebook_test - INFO - Ordem criada: ORD20241202-0017 - PUT @ 5183.638
+2024-12-02 20:08:38,787 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0017_detailed_report.json
+2024-12-02 20:08:38,788 - notebook_test - INFO - Ordem ORD20241202-0017 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,790 - notebook_test - INFO - Ordem criada: ORD20241202-0018 - PUT @ 5184.151
+2024-12-02 20:08:38,791 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0018_detailed_report.json
+2024-12-02 20:08:38,793 - notebook_test - INFO - Ordem ORD20241202-0018 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,795 - notebook_test - INFO - Ordem criada: ORD20241202-0019 - PUT @ 5183.638
+2024-12-02 20:08:38,797 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0019_detailed_report.json
+2024-12-02 20:08:38,798 - notebook_test - INFO - Ordem ORD20241202-0019 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,800 - notebook_test - INFO - Ordem criada: ORD20241202-0020 - PUT @ 5182.098
+2024-12-02 20:08:38,801 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0020_detailed_report.json
+2024-12-02 20:08:38,802 - notebook_test - INFO - Ordem ORD20241202-0020 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,804 - notebook_test - INFO - Ordem criada: ORD20241202-0021 - PUT @ 5182.098
+2024-12-02 20:08:38,806 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0021_detailed_report.json
+2024-12-02 20:08:38,807 - notebook_test - INFO - Ordem ORD20241202-0021 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,808 - notebook_test - INFO - Ordem criada: ORD20241202-0022 - PUT @ 5183.125
+2024-12-02 20:08:38,810 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0022_detailed_report.json
+2024-12-02 20:08:38,811 - notebook_test - INFO - Ordem ORD20241202-0022 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,812 - notebook_test - INFO - Ordem criada: ORD20241202-0023 - PUT @ 5183.125
+2024-12-02 20:08:38,814 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0023_detailed_report.json
+2024-12-02 20:08:38,815 - notebook_test - INFO - Ordem ORD20241202-0023 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,817 - notebook_test - INFO - Ordem criada: ORD20241202-0024 - PUT @ 5182.611
+2024-12-02 20:08:38,819 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0024_detailed_report.json
+2024-12-02 20:08:38,820 - notebook_test - INFO - Ordem ORD20241202-0024 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,821 - notebook_test - INFO - Ordem criada: ORD20241202-0025 - PUT @ 5183.638
+2024-12-02 20:08:38,823 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0025_detailed_report.json
+2024-12-02 20:08:38,824 - notebook_test - INFO - Ordem ORD20241202-0025 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,826 - notebook_test - INFO - Ordem criada: ORD20241202-0026 - PUT @ 5183.125
+2024-12-02 20:08:38,828 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0026_detailed_report.json
+2024-12-02 20:08:38,829 - notebook_test - INFO - Ordem ORD20241202-0026 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,830 - notebook_test - INFO - Ordem criada: ORD20241202-0027 - PUT @ 5183.125
+2024-12-02 20:08:38,832 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0027_detailed_report.json
+2024-12-02 20:08:38,833 - notebook_test - INFO - Ordem ORD20241202-0027 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,835 - notebook_test - INFO - Ordem criada: ORD20241202-0028 - PUT @ 5184.151
+2024-12-02 20:08:38,836 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0028_detailed_report.json
+2024-12-02 20:08:38,837 - notebook_test - INFO - Ordem ORD20241202-0028 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,839 - notebook_test - INFO - Ordem criada: ORD20241202-0029 - PUT @ 5186.718
+2024-12-02 20:08:38,841 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0029_detailed_report.json
+2024-12-02 20:08:38,841 - notebook_test - INFO - Ordem ORD20241202-0029 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,843 - notebook_test - INFO - Ordem criada: ORD20241202-0030 - PUT @ 5186.718
+2024-12-02 20:08:38,845 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0030_detailed_report.json
+2024-12-02 20:08:38,845 - notebook_test - INFO - Ordem ORD20241202-0030 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,847 - notebook_test - INFO - Ordem criada: ORD20241202-0031 - PUT @ 5187.231
+2024-12-02 20:08:38,849 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0031_detailed_report.json
+2024-12-02 20:08:38,850 - notebook_test - INFO - Ordem ORD20241202-0031 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,851 - notebook_test - INFO - Ordem criada: ORD20241202-0032 - PUT @ 5185.691
+2024-12-02 20:08:38,853 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0032_detailed_report.json
+2024-12-02 20:08:38,854 - notebook_test - INFO - Ordem ORD20241202-0032 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,856 - notebook_test - INFO - Ordem criada: ORD20241202-0033 - PUT @ 5187.231
+2024-12-02 20:08:38,858 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0033_detailed_report.json
+2024-12-02 20:08:38,859 - notebook_test - INFO - Ordem ORD20241202-0033 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,861 - notebook_test - INFO - Ordem criada: ORD20241202-0034 - PUT @ 5186.205
+2024-12-02 20:08:38,863 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0034_detailed_report.json
+2024-12-02 20:08:38,864 - notebook_test - INFO - Ordem ORD20241202-0034 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:08:38,866 - notebook_test - INFO - Ordem criada: ORD20241202-0035 - PUT @ 5187.231
+2024-12-02 20:08:38,867 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0035_detailed_report.json
+2024-12-02 20:08:38,868 - notebook_test - INFO - Ordem ORD20241202-0035 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,432 - notebook_test - INFO - Ordem criada: ORD20241202-0036 - PUT @ 5172.345
+2024-12-02 20:09:38,435 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0036_detailed_report.json
+2024-12-02 20:09:38,436 - notebook_test - INFO - Ordem ORD20241202-0036 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,438 - notebook_test - INFO - Ordem criada: ORD20241202-0037 - PUT @ 5172.345
+2024-12-02 20:09:38,440 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0037_detailed_report.json
+2024-12-02 20:09:38,441 - notebook_test - INFO - Ordem ORD20241202-0037 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,443 - notebook_test - INFO - Ordem criada: ORD20241202-0038 - PUT @ 5172.345
+2024-12-02 20:09:38,445 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0038_detailed_report.json
+2024-12-02 20:09:38,447 - notebook_test - INFO - Ordem ORD20241202-0038 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,449 - notebook_test - INFO - Ordem criada: ORD20241202-0039 - PUT @ 5172.345
+2024-12-02 20:09:38,452 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0039_detailed_report.json
+2024-12-02 20:09:38,453 - notebook_test - INFO - Ordem ORD20241202-0039 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,454 - notebook_test - INFO - Ordem criada: ORD20241202-0040 - PUT @ 5173.371
+2024-12-02 20:09:38,457 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0040_detailed_report.json
+2024-12-02 20:09:38,458 - notebook_test - INFO - Ordem ORD20241202-0040 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,460 - notebook_test - INFO - Ordem criada: ORD20241202-0041 - PUT @ 5174.911
+2024-12-02 20:09:38,462 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0041_detailed_report.json
+2024-12-02 20:09:38,463 - notebook_test - INFO - Ordem ORD20241202-0041 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,464 - notebook_test - INFO - Ordem criada: ORD20241202-0042 - PUT @ 5175.938
+2024-12-02 20:09:38,466 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0042_detailed_report.json
+2024-12-02 20:09:38,467 - notebook_test - INFO - Ordem ORD20241202-0042 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,468 - notebook_test - INFO - Ordem criada: ORD20241202-0043 - PUT @ 5174.398
+2024-12-02 20:09:38,470 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0043_detailed_report.json
+2024-12-02 20:09:38,471 - notebook_test - INFO - Ordem ORD20241202-0043 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,473 - notebook_test - INFO - Ordem criada: ORD20241202-0044 - PUT @ 5177.478
+2024-12-02 20:09:38,474 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0044_detailed_report.json
+2024-12-02 20:09:38,475 - notebook_test - INFO - Ordem ORD20241202-0044 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,476 - notebook_test - INFO - Ordem criada: ORD20241202-0045 - PUT @ 5177.478
+2024-12-02 20:09:38,478 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0045_detailed_report.json
+2024-12-02 20:09:38,479 - notebook_test - INFO - Ordem ORD20241202-0045 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,481 - notebook_test - INFO - Ordem criada: ORD20241202-0046 - PUT @ 5177.991
+2024-12-02 20:09:38,483 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0046_detailed_report.json
+2024-12-02 20:09:38,485 - notebook_test - INFO - Ordem ORD20241202-0046 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,486 - notebook_test - INFO - Ordem criada: ORD20241202-0047 - PUT @ 5181.071
+2024-12-02 20:09:38,488 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0047_detailed_report.json
+2024-12-02 20:09:38,489 - notebook_test - INFO - Ordem ORD20241202-0047 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,490 - notebook_test - INFO - Ordem criada: ORD20241202-0048 - PUT @ 5180.558
+2024-12-02 20:09:38,491 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0048_detailed_report.json
+2024-12-02 20:09:38,492 - notebook_test - INFO - Ordem ORD20241202-0048 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,493 - notebook_test - INFO - Ordem criada: ORD20241202-0049 - PUT @ 5181.585
+2024-12-02 20:09:38,495 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0049_detailed_report.json
+2024-12-02 20:09:38,496 - notebook_test - INFO - Ordem ORD20241202-0049 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,497 - notebook_test - INFO - Ordem criada: ORD20241202-0050 - PUT @ 5182.611
+2024-12-02 20:09:38,499 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0050_detailed_report.json
+2024-12-02 20:09:38,500 - notebook_test - INFO - Ordem ORD20241202-0050 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,502 - notebook_test - INFO - Ordem criada: ORD20241202-0051 - PUT @ 5183.638
+2024-12-02 20:09:38,503 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0051_detailed_report.json
+2024-12-02 20:09:38,504 - notebook_test - INFO - Ordem ORD20241202-0051 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,505 - notebook_test - INFO - Ordem criada: ORD20241202-0052 - PUT @ 5183.638
+2024-12-02 20:09:38,507 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0052_detailed_report.json
+2024-12-02 20:09:38,508 - notebook_test - INFO - Ordem ORD20241202-0052 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,509 - notebook_test - INFO - Ordem criada: ORD20241202-0053 - PUT @ 5184.151
+2024-12-02 20:09:38,511 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0053_detailed_report.json
+2024-12-02 20:09:38,512 - notebook_test - INFO - Ordem ORD20241202-0053 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,513 - notebook_test - INFO - Ordem criada: ORD20241202-0054 - PUT @ 5183.638
+2024-12-02 20:09:38,515 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0054_detailed_report.json
+2024-12-02 20:09:38,518 - notebook_test - INFO - Ordem ORD20241202-0054 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,521 - notebook_test - INFO - Ordem criada: ORD20241202-0055 - PUT @ 5182.098
+2024-12-02 20:09:38,523 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0055_detailed_report.json
+2024-12-02 20:09:38,524 - notebook_test - INFO - Ordem ORD20241202-0055 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,526 - notebook_test - INFO - Ordem criada: ORD20241202-0056 - PUT @ 5182.098
+2024-12-02 20:09:38,528 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0056_detailed_report.json
+2024-12-02 20:09:38,529 - notebook_test - INFO - Ordem ORD20241202-0056 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,531 - notebook_test - INFO - Ordem criada: ORD20241202-0057 - PUT @ 5183.125
+2024-12-02 20:09:38,533 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0057_detailed_report.json
+2024-12-02 20:09:38,534 - notebook_test - INFO - Ordem ORD20241202-0057 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,535 - notebook_test - INFO - Ordem criada: ORD20241202-0058 - PUT @ 5183.125
+2024-12-02 20:09:38,538 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0058_detailed_report.json
+2024-12-02 20:09:38,539 - notebook_test - INFO - Ordem ORD20241202-0058 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,541 - notebook_test - INFO - Ordem criada: ORD20241202-0059 - PUT @ 5182.611
+2024-12-02 20:09:38,543 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0059_detailed_report.json
+2024-12-02 20:09:38,544 - notebook_test - INFO - Ordem ORD20241202-0059 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,546 - notebook_test - INFO - Ordem criada: ORD20241202-0060 - PUT @ 5183.638
+2024-12-02 20:09:38,548 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0060_detailed_report.json
+2024-12-02 20:09:38,549 - notebook_test - INFO - Ordem ORD20241202-0060 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,552 - notebook_test - INFO - Ordem criada: ORD20241202-0061 - PUT @ 5183.125
+2024-12-02 20:09:38,554 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0061_detailed_report.json
+2024-12-02 20:09:38,556 - notebook_test - INFO - Ordem ORD20241202-0061 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,557 - notebook_test - INFO - Ordem criada: ORD20241202-0062 - PUT @ 5183.125
+2024-12-02 20:09:38,559 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0062_detailed_report.json
+2024-12-02 20:09:38,559 - notebook_test - INFO - Ordem ORD20241202-0062 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,561 - notebook_test - INFO - Ordem criada: ORD20241202-0063 - PUT @ 5184.151
+2024-12-02 20:09:38,566 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0063_detailed_report.json
+2024-12-02 20:09:38,568 - notebook_test - INFO - Ordem ORD20241202-0063 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,570 - notebook_test - INFO - Ordem criada: ORD20241202-0064 - PUT @ 5186.718
+2024-12-02 20:09:38,572 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0064_detailed_report.json
+2024-12-02 20:09:38,574 - notebook_test - INFO - Ordem ORD20241202-0064 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,575 - notebook_test - INFO - Ordem criada: ORD20241202-0065 - PUT @ 5186.718
+2024-12-02 20:09:38,578 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0065_detailed_report.json
+2024-12-02 20:09:38,579 - notebook_test - INFO - Ordem ORD20241202-0065 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,581 - notebook_test - INFO - Ordem criada: ORD20241202-0066 - PUT @ 5187.231
+2024-12-02 20:09:38,582 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0066_detailed_report.json
+2024-12-02 20:09:38,583 - notebook_test - INFO - Ordem ORD20241202-0066 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,584 - notebook_test - INFO - Ordem criada: ORD20241202-0067 - PUT @ 5185.691
+2024-12-02 20:09:38,586 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0067_detailed_report.json
+2024-12-02 20:09:38,586 - notebook_test - INFO - Ordem ORD20241202-0067 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,587 - notebook_test - INFO - Ordem criada: ORD20241202-0068 - PUT @ 5187.231
+2024-12-02 20:09:38,588 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0068_detailed_report.json
+2024-12-02 20:09:38,589 - notebook_test - INFO - Ordem ORD20241202-0068 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,590 - notebook_test - INFO - Ordem criada: ORD20241202-0069 - PUT @ 5186.205
+2024-12-02 20:09:38,593 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0069_detailed_report.json
+2024-12-02 20:09:38,594 - notebook_test - INFO - Ordem ORD20241202-0069 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:09:38,595 - notebook_test - INFO - Ordem criada: ORD20241202-0070 - PUT @ 5187.231
+2024-12-02 20:09:38,598 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0070_detailed_report.json
+2024-12-02 20:09:38,599 - notebook_test - INFO - Ordem ORD20241202-0070 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:51,583 - notebook_test - INFO - Agente registrado: RSIAgent
+2024-12-02 20:15:51,583 - notebook_test - INFO - Agente registrado: MACDAgent
+2024-12-02 20:15:54,622 - notebook_test - INFO - Ordem criada: ORD20241202-0001 - PUT @ 5172.345
+2024-12-02 20:15:54,624 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0001_detailed_report.json
+2024-12-02 20:15:54,625 - notebook_test - INFO - Ordem ORD20241202-0001 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,627 - notebook_test - INFO - Ordem criada: ORD20241202-0002 - PUT @ 5172.345
+2024-12-02 20:15:54,630 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0002_detailed_report.json
+2024-12-02 20:15:54,631 - notebook_test - INFO - Ordem ORD20241202-0002 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,633 - notebook_test - INFO - Ordem criada: ORD20241202-0003 - PUT @ 5172.345
+2024-12-02 20:15:54,635 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0003_detailed_report.json
+2024-12-02 20:15:54,636 - notebook_test - INFO - Ordem ORD20241202-0003 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,638 - notebook_test - INFO - Ordem criada: ORD20241202-0004 - PUT @ 5172.345
+2024-12-02 20:15:54,639 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0004_detailed_report.json
+2024-12-02 20:15:54,640 - notebook_test - INFO - Ordem ORD20241202-0004 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,641 - notebook_test - INFO - Ordem criada: ORD20241202-0005 - PUT @ 5173.371
+2024-12-02 20:15:54,644 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0005_detailed_report.json
+2024-12-02 20:15:54,645 - notebook_test - INFO - Ordem ORD20241202-0005 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,647 - notebook_test - INFO - Ordem criada: ORD20241202-0006 - PUT @ 5174.911
+2024-12-02 20:15:54,649 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0006_detailed_report.json
+2024-12-02 20:15:54,650 - notebook_test - INFO - Ordem ORD20241202-0006 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,652 - notebook_test - INFO - Ordem criada: ORD20241202-0007 - PUT @ 5175.938
+2024-12-02 20:15:54,653 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0007_detailed_report.json
+2024-12-02 20:15:54,654 - notebook_test - INFO - Ordem ORD20241202-0007 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,656 - notebook_test - INFO - Ordem criada: ORD20241202-0008 - PUT @ 5174.398
+2024-12-02 20:15:54,658 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0008_detailed_report.json
+2024-12-02 20:15:54,659 - notebook_test - INFO - Ordem ORD20241202-0008 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,660 - notebook_test - INFO - Ordem criada: ORD20241202-0009 - PUT @ 5177.478
+2024-12-02 20:15:54,663 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0009_detailed_report.json
+2024-12-02 20:15:54,663 - notebook_test - INFO - Ordem ORD20241202-0009 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,666 - notebook_test - INFO - Ordem criada: ORD20241202-0010 - PUT @ 5177.478
+2024-12-02 20:15:54,667 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0010_detailed_report.json
+2024-12-02 20:15:54,668 - notebook_test - INFO - Ordem ORD20241202-0010 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,669 - notebook_test - INFO - Ordem criada: ORD20241202-0011 - PUT @ 5177.991
+2024-12-02 20:15:54,671 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0011_detailed_report.json
+2024-12-02 20:15:54,671 - notebook_test - INFO - Ordem ORD20241202-0011 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,673 - notebook_test - INFO - Ordem criada: ORD20241202-0012 - PUT @ 5181.071
+2024-12-02 20:15:54,675 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0012_detailed_report.json
+2024-12-02 20:15:54,676 - notebook_test - INFO - Ordem ORD20241202-0012 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,677 - notebook_test - INFO - Ordem criada: ORD20241202-0013 - PUT @ 5180.558
+2024-12-02 20:15:54,678 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0013_detailed_report.json
+2024-12-02 20:15:54,679 - notebook_test - INFO - Ordem ORD20241202-0013 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,681 - notebook_test - INFO - Ordem criada: ORD20241202-0014 - PUT @ 5181.585
+2024-12-02 20:15:54,682 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0014_detailed_report.json
+2024-12-02 20:15:54,683 - notebook_test - INFO - Ordem ORD20241202-0014 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,684 - notebook_test - INFO - Ordem criada: ORD20241202-0015 - PUT @ 5182.611
+2024-12-02 20:15:54,686 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0015_detailed_report.json
+2024-12-02 20:15:54,686 - notebook_test - INFO - Ordem ORD20241202-0015 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,688 - notebook_test - INFO - Ordem criada: ORD20241202-0016 - PUT @ 5183.638
+2024-12-02 20:15:54,689 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0016_detailed_report.json
+2024-12-02 20:15:54,690 - notebook_test - INFO - Ordem ORD20241202-0016 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,691 - notebook_test - INFO - Ordem criada: ORD20241202-0017 - PUT @ 5183.638
+2024-12-02 20:15:54,693 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0017_detailed_report.json
+2024-12-02 20:15:54,694 - notebook_test - INFO - Ordem ORD20241202-0017 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,697 - notebook_test - INFO - Ordem criada: ORD20241202-0018 - PUT @ 5184.151
+2024-12-02 20:15:54,699 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0018_detailed_report.json
+2024-12-02 20:15:54,700 - notebook_test - INFO - Ordem ORD20241202-0018 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,702 - notebook_test - INFO - Ordem criada: ORD20241202-0019 - PUT @ 5183.638
+2024-12-02 20:15:54,704 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0019_detailed_report.json
+2024-12-02 20:15:54,705 - notebook_test - INFO - Ordem ORD20241202-0019 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,707 - notebook_test - INFO - Ordem criada: ORD20241202-0020 - PUT @ 5182.098
+2024-12-02 20:15:54,711 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0020_detailed_report.json
+2024-12-02 20:15:54,712 - notebook_test - INFO - Ordem ORD20241202-0020 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,715 - notebook_test - INFO - Ordem criada: ORD20241202-0021 - PUT @ 5182.098
+2024-12-02 20:15:54,717 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0021_detailed_report.json
+2024-12-02 20:15:54,718 - notebook_test - INFO - Ordem ORD20241202-0021 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,719 - notebook_test - INFO - Ordem criada: ORD20241202-0022 - PUT @ 5183.125
+2024-12-02 20:15:54,721 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0022_detailed_report.json
+2024-12-02 20:15:54,722 - notebook_test - INFO - Ordem ORD20241202-0022 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,724 - notebook_test - INFO - Ordem criada: ORD20241202-0023 - PUT @ 5183.125
+2024-12-02 20:15:54,726 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0023_detailed_report.json
+2024-12-02 20:15:54,727 - notebook_test - INFO - Ordem ORD20241202-0023 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,729 - notebook_test - INFO - Ordem criada: ORD20241202-0024 - PUT @ 5182.611
+2024-12-02 20:15:54,731 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0024_detailed_report.json
+2024-12-02 20:15:54,732 - notebook_test - INFO - Ordem ORD20241202-0024 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,734 - notebook_test - INFO - Ordem criada: ORD20241202-0025 - PUT @ 5183.638
+2024-12-02 20:15:54,736 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0025_detailed_report.json
+2024-12-02 20:15:54,738 - notebook_test - INFO - Ordem ORD20241202-0025 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,739 - notebook_test - INFO - Ordem criada: ORD20241202-0026 - PUT @ 5183.125
+2024-12-02 20:15:54,741 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0026_detailed_report.json
+2024-12-02 20:15:54,742 - notebook_test - INFO - Ordem ORD20241202-0026 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,744 - notebook_test - INFO - Ordem criada: ORD20241202-0027 - PUT @ 5183.125
+2024-12-02 20:15:54,747 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0027_detailed_report.json
+2024-12-02 20:15:54,748 - notebook_test - INFO - Ordem ORD20241202-0027 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,750 - notebook_test - INFO - Ordem criada: ORD20241202-0028 - PUT @ 5184.151
+2024-12-02 20:15:54,751 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0028_detailed_report.json
+2024-12-02 20:15:54,752 - notebook_test - INFO - Ordem ORD20241202-0028 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,753 - notebook_test - INFO - Ordem criada: ORD20241202-0029 - PUT @ 5186.718
+2024-12-02 20:15:54,755 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0029_detailed_report.json
+2024-12-02 20:15:54,755 - notebook_test - INFO - Ordem ORD20241202-0029 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,757 - notebook_test - INFO - Ordem criada: ORD20241202-0030 - PUT @ 5186.718
+2024-12-02 20:15:54,758 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0030_detailed_report.json
+2024-12-02 20:15:54,759 - notebook_test - INFO - Ordem ORD20241202-0030 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,760 - notebook_test - INFO - Ordem criada: ORD20241202-0031 - PUT @ 5187.231
+2024-12-02 20:15:54,762 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0031_detailed_report.json
+2024-12-02 20:15:54,763 - notebook_test - INFO - Ordem ORD20241202-0031 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,764 - notebook_test - INFO - Ordem criada: ORD20241202-0032 - PUT @ 5185.691
+2024-12-02 20:15:54,766 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0032_detailed_report.json
+2024-12-02 20:15:54,766 - notebook_test - INFO - Ordem ORD20241202-0032 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,768 - notebook_test - INFO - Ordem criada: ORD20241202-0033 - PUT @ 5187.231
+2024-12-02 20:15:54,769 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0033_detailed_report.json
+2024-12-02 20:15:54,769 - notebook_test - INFO - Ordem ORD20241202-0033 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,771 - notebook_test - INFO - Ordem criada: ORD20241202-0034 - PUT @ 5186.205
+2024-12-02 20:15:54,773 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0034_detailed_report.json
+2024-12-02 20:15:54,774 - notebook_test - INFO - Ordem ORD20241202-0034 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,775 - notebook_test - INFO - Ordem criada: ORD20241202-0035 - PUT @ 5187.231
+2024-12-02 20:15:54,778 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0035_detailed_report.json
+2024-12-02 20:15:54,779 - notebook_test - INFO - Ordem ORD20241202-0035 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,781 - notebook_test - INFO - Ordem criada: ORD20241202-0036 - PUT @ 5188.258
+2024-12-02 20:15:54,782 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0036_detailed_report.json
+2024-12-02 20:15:54,783 - notebook_test - INFO - Ordem ORD20241202-0036 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,784 - notebook_test - INFO - Ordem criada: ORD20241202-0037 - PUT @ 5190.311
+2024-12-02 20:15:54,786 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0037_detailed_report.json
+2024-12-02 20:15:54,787 - notebook_test - INFO - Ordem ORD20241202-0037 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,790 - notebook_test - INFO - Ordem criada: ORD20241202-0038 - PUT @ 5187.745
+2024-12-02 20:15:54,791 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0038_detailed_report.json
+2024-12-02 20:15:54,792 - notebook_test - INFO - Ordem ORD20241202-0038 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,793 - notebook_test - INFO - Ordem criada: ORD20241202-0039 - PUT @ 5187.745
+2024-12-02 20:15:54,795 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0039_detailed_report.json
+2024-12-02 20:15:54,796 - notebook_test - INFO - Ordem ORD20241202-0039 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,817 - notebook_test - INFO - Ordem criada: ORD20241202-0040 - PUT @ 5195.958
+2024-12-02 20:15:54,819 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0040_detailed_report.json
+2024-12-02 20:15:54,820 - notebook_test - INFO - Ordem ORD20241202-0040 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,841 - notebook_test - INFO - Ordem criada: ORD20241202-0041 - PUT @ 5202.631
+2024-12-02 20:15:54,842 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0041_detailed_report.json
+2024-12-02 20:15:54,843 - notebook_test - INFO - Ordem ORD20241202-0041 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,844 - notebook_test - INFO - Ordem criada: ORD20241202-0042 - PUT @ 5202.631
+2024-12-02 20:15:54,846 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0042_detailed_report.json
+2024-12-02 20:15:54,847 - notebook_test - INFO - Ordem ORD20241202-0042 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:15:54,848 - notebook_test - INFO - Ordem criada: ORD20241202-0043 - PUT @ 5203.145
+2024-12-02 20:15:54,850 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0043_detailed_report.json
+2024-12-02 20:15:54,851 - notebook_test - INFO - Ordem ORD20241202-0043 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:20:47,251 - notebook_test - INFO - Agente registrado: RSIAgent
+2024-12-02 20:20:47,253 - notebook_test - INFO - Agente registrado: MACDAgent
+2024-12-02 20:22:55,837 - notebook_test - INFO - Agente registrado: RSIAgent
+2024-12-02 20:22:55,838 - notebook_test - INFO - Agente registrado: MACDAgent
+2024-12-02 20:22:58,390 - notebook_test - INFO - Ordem criada: ORD20241202-0001 - PUT @ 5185.691
+2024-12-02 20:22:58,392 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0001_detailed_report.json
+2024-12-02 20:22:58,393 - notebook_test - INFO - Ordem ORD20241202-0001 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:22:58,396 - notebook_test - INFO - Ordem criada: ORD20241202-0002 - PUT @ 5187.231
+2024-12-02 20:22:58,398 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0002_detailed_report.json
+2024-12-02 20:22:58,399 - notebook_test - INFO - Ordem ORD20241202-0002 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:22:58,402 - notebook_test - INFO - Ordem criada: ORD20241202-0003 - PUT @ 5187.231
+2024-12-02 20:22:58,405 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0003_detailed_report.json
+2024-12-02 20:22:58,406 - notebook_test - INFO - Ordem ORD20241202-0003 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:22:58,408 - notebook_test - INFO - Ordem criada: ORD20241202-0004 - PUT @ 5188.258
+2024-12-02 20:22:58,410 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0004_detailed_report.json
+2024-12-02 20:22:58,411 - notebook_test - INFO - Ordem ORD20241202-0004 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:22:58,414 - notebook_test - INFO - Ordem criada: ORD20241202-0005 - PUT @ 5190.311
+2024-12-02 20:22:58,416 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0005_detailed_report.json
+2024-12-02 20:22:58,418 - notebook_test - INFO - Ordem ORD20241202-0005 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:22:58,515 - notebook_test - INFO - Ordem criada: ORD20241202-0006 - PUT @ 5219.058
+2024-12-02 20:22:58,516 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0006_detailed_report.json
+2024-12-02 20:22:58,517 - notebook_test - INFO - Ordem ORD20241202-0006 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:22:58,522 - notebook_test - INFO - Ordem criada: ORD20241202-0007 - PUT @ 5218.031
+2024-12-02 20:22:58,523 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0007_detailed_report.json
+2024-12-02 20:22:58,524 - notebook_test - INFO - Ordem ORD20241202-0007 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:24:12,459 - notebook_test - INFO - Ordem criada: ORD20241202-0008 - PUT @ 5185.691
+2024-12-02 20:24:12,461 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0008_detailed_report.json
+2024-12-02 20:24:12,462 - notebook_test - INFO - Ordem ORD20241202-0008 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:24:12,464 - notebook_test - INFO - Ordem criada: ORD20241202-0009 - PUT @ 5187.231
+2024-12-02 20:24:12,466 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0009_detailed_report.json
+2024-12-02 20:24:12,468 - notebook_test - INFO - Ordem ORD20241202-0009 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:24:12,471 - notebook_test - INFO - Ordem criada: ORD20241202-0010 - PUT @ 5187.231
+2024-12-02 20:24:12,473 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0010_detailed_report.json
+2024-12-02 20:24:12,474 - notebook_test - INFO - Ordem ORD20241202-0010 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:24:12,477 - notebook_test - INFO - Ordem criada: ORD20241202-0011 - PUT @ 5188.258
+2024-12-02 20:24:12,479 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0011_detailed_report.json
+2024-12-02 20:24:12,480 - notebook_test - INFO - Ordem ORD20241202-0011 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:24:12,482 - notebook_test - INFO - Ordem criada: ORD20241202-0012 - PUT @ 5190.311
+2024-12-02 20:24:12,485 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0012_detailed_report.json
+2024-12-02 20:24:12,486 - notebook_test - INFO - Ordem ORD20241202-0012 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:24:12,569 - notebook_test - INFO - Ordem criada: ORD20241202-0013 - PUT @ 5219.058
+2024-12-02 20:24:12,570 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0013_detailed_report.json
+2024-12-02 20:24:12,571 - notebook_test - INFO - Ordem ORD20241202-0013 fechada: STOPPED - Resultado: -0.00
+2024-12-02 20:24:12,576 - notebook_test - INFO - Ordem criada: ORD20241202-0014 - PUT @ 5218.031
+2024-12-02 20:24:12,577 - notebook_test - INFO - Relatório detalhado gerado: reports\ORD20241202-0014_detailed_report.json
+2024-12-02 20:24:12,578 - notebook_test - INFO - Ordem ORD20241202-0014 fechada: STOPPED - Resultado: -0.00

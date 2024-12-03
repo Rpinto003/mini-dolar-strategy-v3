@@ -4,6 +4,9 @@ import logging
 import pandas as pd
 from dataclasses import dataclass
 
+# Importação necessária da classe BaseAgent
+from .agent_base import BaseAgent, MarketData, TechnicalIndicators, AgentDecision
+
 @dataclass
 class AnalysisResult:
     """Resultado consolidado das análises"""
@@ -63,7 +66,7 @@ class IntegrationManager:
         except Exception as e:
             self.logger.error(f"Erro na atualização de dados: {str(e)}")
             return False
-    
+
     def collect_agent_decisions(self) -> Dict[str, AgentDecision]:
         """Coleta decisões de todos os agentes"""
         decisions = {}
@@ -160,33 +163,14 @@ class IntegrationManager:
         # Implementação específica para seus modelos ML
         return predictions.get('probability', 0.0) * 2 - 1  # Converte prob [0,1] para score [-1,1]
     
-    def _determine_final_decision(self, score: float) -> tuple[str, float]:
-        """Determina decisão final baseada no score consolidado"""
-        confidence = abs(score)
-        
-        if score > 0.3:
-            return 'CALL', confidence
-        elif score < -0.3:
-            return 'PUT', confidence
-        else:
-            return 'HOLD', confidence
-        
-    def get_last_analysis_report(self) -> Dict:
-        """Gera relatório da última análise"""
-        if not self.last_analysis:
-            return {"error": "Nenhuma análise disponível"}
-            
-        return {
-            "timestamp": self.last_analysis.timestamp.isoformat(),
-            "decision": {
-                "action": self.last_analysis.final_decision,
-                "confidence": self.last_analysis.confidence
-            },
-            "scores": {
-                "technical": self.last_analysis.technical_score,
-                "fundamental": self.last_analysis.fundamental_score,
-                "ml": self.last_analysis.ml_score
-            },
-            "indicators_used": self.last_analysis.indicators,
-            "metadata": self.last_analysis.metadata
-        }
+def _determine_final_decision(self, score: float) -> tuple[str, float]:
+    """Determina decisão final baseada no score consolidado"""
+    confidence = abs(score)
+    
+    # Reduzindo thresholds para gerar mais sinais
+    if score > 0.1:  # Reduzido de 0.15
+        return 'CALL', confidence
+    elif score < -0.1:  # Reduzido de -0.15
+        return 'PUT', confidence
+    else:
+        return 'HOLD', confidence

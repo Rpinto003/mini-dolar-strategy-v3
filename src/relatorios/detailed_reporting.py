@@ -4,6 +4,9 @@ import pandas as pd
 import json
 import logging
 from pathlib import Path
+from src.relatorios.order_execution import OrderDetails
+from src.integrador.integration_manager import AnalysisResult
+
 
 class DetailedReportingSystem:
     """Sistema de relatórios detalhados com análises e métricas"""

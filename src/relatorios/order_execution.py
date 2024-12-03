@@ -5,6 +5,8 @@ from enum import Enum
 import logging
 import json
 import pandas as pd
+from src.integrador.integration_manager import AnalysisResult
+
 
 class OrderStatus(Enum):
     PENDING = "PENDING"
@@ -192,8 +194,8 @@ class OrderExecutionSystem:
         ]
     
     def generate_performance_report(self, 
-                                  start_time: Optional[datetime] = None,
-                                  end_time: Optional[datetime] = None) -> Dict:
+                                start_time: Optional[datetime] = None,
+                                end_time: Optional[datetime] = None) -> Dict:
         """Gera relatório de performance"""
         orders = self.get_completed_orders(start_time, end_time)
         
@@ -211,26 +213,13 @@ class OrderExecutionSystem:
         win_rate = (winning_orders / total_orders) * 100 if total_orders > 0 else 0
         
         return {
-            "período": {
-                "início": start_time.isoformat() if start_time else "início",
-                "fim": end_time.isoformat() if end_time else "atual"
-            },
-            "métricas_gerais": {
-                "total_ordens": total_orders,
-                "ordens_ganhadoras": winning_orders,
-                "ordens_perdedoras": losing_orders,
+            "general_metrics": {  # Mudado de 'métricas_gerais' para 'general_metrics'
+                "total_orders": total_orders,
+                "winning_orders": winning_orders,
+                "losing_orders": losing_orders,
                 "win_rate": f"{win_rate:.2f}%",
-                "resultado_total": total_profit + total_loss,
-                "lucro_total": total_profit,
-                "prejuízo_total": total_loss
-            },
-            "médias": {
-                "lucro_médio": total_profit / winning_orders if winning_orders > 0 else 0,
-                "prejuízo_médio": total_loss / losing_orders if losing_orders > 0 else 0,
-                "resultado_por_ordem": (total_profit + total_loss) / total_orders
-            },
-            "detalhamento": {
-                "CALL": len([o for o in orders if o.order_type == OrderType.CALL]),
-                "PUT": len([o for o in orders if o.order_type == OrderType.PUT])
+                "total_result": total_profit + total_loss,
+                "total_profit": total_profit,
+                "total_loss": total_loss
             }
         }

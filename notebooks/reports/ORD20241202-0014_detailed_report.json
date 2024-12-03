@@ -1,0 +1,44 @@
+{
+  "informações_gerais": {
+    "order_id": "ORD20241202-0014",
+    "timestamp": "2024-12-02T20:24:12.576898",
+    "tipo": "PUT",
+    "status": "PENDING"
+  },
+  "preços": {
+    "entrada": 5218.031,
+    "saída": null,
+    "stop_loss": 5218.031,
+    "take_profit": 5218.031
+  },
+  "resultado": {
+    "valor": null,
+    "duração": null
+  },
+  "análise_técnica": {
+    "indicadores": {
+      "RSIAgent": [
+        "RSI",
+        "MOMENTUM"
+      ],
+      "MACDAgent": [
+        "MACD"
+      ]
+    },
+    "score": -0.5298519713648426
+  },
+  "análise_fundamental": {
+    "indicadores": {},
+    "score": 0
+  },
+  "análise_ml": {
+    "previsões": {},
+    "score": 0
+  },
+  "metadados": {
+    "confidence": 0.21194078854593706,
+    "technical_score": -0.5298519713648426,
+    "fundamental_score": 0,
+    "ml_score": 0
+  }
+}
